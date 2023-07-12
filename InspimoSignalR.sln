@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InspimoSignalR", "InspimoSignalR\InspimoSignalR.csproj", "{B9617142-2CFD-4006-BEBD-FB21E51DD391}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InspimoSignalRAPİ", "InspimoSignalRAPİ\InspimoSignalRAPİ.csproj", "{96ED9669-C8C4-413E-81A8-A172985CED96}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9617142-2CFD-4006-BEBD-FB21E51DD391}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9617142-2CFD-4006-BEBD-FB21E51DD391}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9617142-2CFD-4006-BEBD-FB21E51DD391}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9617142-2CFD-4006-BEBD-FB21E51DD391}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96ED9669-C8C4-413E-81A8-A172985CED96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96ED9669-C8C4-413E-81A8-A172985CED96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96ED9669-C8C4-413E-81A8-A172985CED96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96ED9669-C8C4-413E-81A8-A172985CED96}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EB7269BB-E318-48FE-8673-C6DB1B708043}
+	EndGlobalSection
+EndGlobal
